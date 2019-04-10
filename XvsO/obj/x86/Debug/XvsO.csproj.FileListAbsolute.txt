@@ -1,0 +1,22 @@
+D:\visual studio 2010\Projects\XvsO\XvsO\bin\Debug\XvsO.exe
+D:\visual studio 2010\Projects\XvsO\XvsO\bin\Debug\XvsO.pdb
+D:\visual studio 2010\Projects\XvsO\XvsO\obj\x86\Debug\MainWindow.baml
+D:\visual studio 2010\Projects\XvsO\XvsO\obj\x86\Debug\MainWindow.g.cs
+D:\visual studio 2010\Projects\XvsO\XvsO\obj\x86\Debug\App.g.cs
+D:\visual studio 2010\Projects\XvsO\XvsO\obj\x86\Debug\XvsO_MarkupCompile.cache
+D:\visual studio 2010\Projects\XvsO\XvsO\obj\x86\Debug\XvsO.g.resources
+D:\visual studio 2010\Projects\XvsO\XvsO\obj\x86\Debug\XvsO.Properties.Resources.resources
+D:\visual studio 2010\Projects\XvsO\XvsO\obj\x86\Debug\XvsO.csproj.GenerateResource.Cache
+D:\visual studio 2010\Projects\XvsO\XvsO\obj\x86\Debug\XvsO.exe
+D:\visual studio 2010\Projects\XvsO\XvsO\obj\x86\Debug\XvsO.pdb
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\obj\x86\Debug\XvsO.exe
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\obj\x86\Debug\XvsO.pdb
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\bin\Debug\XvsO.exe
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\bin\Debug\XvsO.pdb
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\obj\x86\Debug\MainWindow.baml
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\obj\x86\Debug\App.g.cs
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\obj\x86\Debug\XvsO_MarkupCompile.cache
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\obj\x86\Debug\XvsO.g.resources
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\obj\x86\Debug\XvsO.Properties.Resources.resources
+C:\Users\kulemin.dv\Desktop\XvsO\XvsO\obj\x86\Debug\XvsO.csproj.GenerateResource.Cache
